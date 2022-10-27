@@ -29,7 +29,6 @@ namespace ContrerasJOddOrEvenAPI.Controllers
                 return $"{item.num1} is odd";
             }
 
-
         }
     }
 }
